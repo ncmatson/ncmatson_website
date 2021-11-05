@@ -1,10 +1,9 @@
 Title: Projects
 Tags: menu
-I'd like a gallery of projects here.
 
-Projects: I'd like to talk about 
+Some things I've worked on:
 
-* Academic
+* Research
     - [3D A2A Channel Measurements]({filename}./projects/a2a_3d.md)
 * Personal
     - [JeezyAI / RapBot]({filename}./projects/jeezy.md)

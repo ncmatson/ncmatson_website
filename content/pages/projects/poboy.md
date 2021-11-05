@@ -1,5 +1,4 @@
 Title: Poboy (a po'boys smart home)
-<!-- Date: 11/5/2021 -->
 
 Poboy is a "poor man's smart home" device.
 We've all experience the anguish not being able to reach the light switch while laying in bed or on the couch.
