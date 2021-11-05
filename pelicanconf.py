@@ -1,6 +1,6 @@
 AUTHOR = 'N. Cameron Matson'
 SITENAME = 'N. Cameron Matson'
-SITEURL = 'https://cameronmatson.com'
+SITEURL = 'https://ncmatson.com'
 
 PATH = 'content'
 
