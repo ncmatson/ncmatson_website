@@ -1,7 +1,7 @@
 __pycache__/
 
 #Custom
-output
+output/*
 pelicanconf_local.py
 
 #Python
