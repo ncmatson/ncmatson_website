@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>N. Cameron Matson</title>
+	<meta name="description" content="">
+	<meta name="author" content="N. Cameron Matson">
+
+	<!-- HTML5 shim, for IE6-8 support of HTML elements -->
+	<!--[if lt IE 9]>
+		<script src="https://cameronmatson.com/theme/html5.js"></script>
+	<![endif]-->
+
+	<!-- Styles -->
+	<link href="https://cameronmatson.com/theme/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cameronmatson.com/theme/local.css" rel="stylesheet">
+	<link href="https://cameronmatson.com/theme/pygments.css" rel="stylesheet">
+
+	<!-- Feeds -->
+	<link href="https://cameronmatson.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="N. Cameron Matson Atom Feed" />
+
+
+
+
+</head>
+<body>
+	<div class="topbar">
+	  <div class="topbar-inner">
+		<div class="container-fluid">
+		  <a class="brand" href="https://cameronmatson.com/">N. Cameron Matson</a>
+			<ul class="nav">
+							<li><a href="https://cameronmatson.com/pages/cv.html">CV</a></li>
+							<li><a href="https://cameronmatson.com/pages/projects.html">Projects</a></li>
+			</ul>
+			<!-- <p class="pull-right"><a href="https://cameronmatson.com/archives.html">[archives]</a> <a href="https://cameronmatson.com/tags.html">[tags]</a></p> -->
+		</div>
+	  </div>
+	</div>
+
+	<div class="container-fluid">
+	  <div class="sidebar">
+		<div class="well">
+			<!-- <h3>Blogroll</h3>
+			<ul>
+			</ul> -->
+			<div class="headshot">
+				<img src="/images/headshot.png" alt="pic of me">
+			</div>
+			<div class="contact">
+			<h5>Find Me</h3>
+			<ul>
+				<li><a href="https://www.linkedin.com/in/n-cameron-matson/">linkedin</a></li>
+				<li><a href="https://github.com/ncmatson">github</a></li>
+				<li><a href="https://twitter.com/ncmats0n">twitter</a></li>
+			</ul>
+			</div>
+		</div>
+	  </div>
+	  <div class="content">
+	<div class='page'>
+		<div class="page-header"><h1>Spitbot/JeezyAI (an interacitve rap bot)</h1></div>
+		<div><!-- Date: 11/5/2021 -->
+
+<p>Spitbot is a project I worked on with my friend <a href="https://claytongentry.com">Clayton</a>.
+We wondered what it would be like for two artificial intelligences to compete in a rap battle against one another.
+Rather than wait to find out, we tried our hand at making our own.</p>
+<p>Written in C++ (for no particular reason) with no real knowledge of artificial inteligence or machine learning, the algorithm was "trained" on a large corpus of rap lyrics (initially the complete works of Jeezy) essentially by constructing a giant dependency network.  Every word in the corpus was related to every other word by how many times the former preceded that latter.</p>
+<p>The fun part was getting it to "rap".<br>
+Fundamental to rap is rhyme and cadence.
+In order to "teach" the bot how to rap properly we incorporated pronunciation rules from Carnegie Mellon.
+One of the challenges was that the pronunciation dictionary didn't include all of the words in the Jeezy corpus. At the time we just avoided unknown words or manually added them to the dictionary.<br>
+(<a href="https://cameronmatson.com/pages/kweezelbotter-pronunciation-predictor.html">I eventually wrote a program to predict the pronunciation of a word based on its spelling</a>)</p>
+<p>The final program worked like this:  Given a line of text, the bot would respond with a line that sounded like Jeezy, trying its best to match the stress pattern of the provided line and to rhyme.</p>
+<p>It was pretty cool.  I'm working on dusting it off posting a demo, but for now you can check out the code on <a href="https://github.com/claytongentry/spitbot">github</a>.</p></div>
+	</div>
+		<footer>
+		  <p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="https://github.com/getpelican/pelican-themes/tree/master/bootstrap">Twitter Bootstrap</a>.</p>
+		  <p>&copy; N. Cameron Matson</p>
+		</footer>
+	  </div>
+
+	</div>
+</body>
+</html>
