@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>N. Cameron Matson</title>
+	<meta name="description" content="">
+	<meta name="author" content="N. Cameron Matson">
+
+	<!-- HTML5 shim, for IE6-8 support of HTML elements -->
+	<!--[if lt IE 9]>
+		<script src="https://ncmatson.com/theme/html5.js"></script>
+	<![endif]-->
+
+	<!-- Styles -->
+	<link href="https://ncmatson.com/theme/bootstrap.min.css" rel="stylesheet">
+	<link href="https://ncmatson.com/theme/local.css" rel="stylesheet">
+	<link href="https://ncmatson.com/theme/pygments.css" rel="stylesheet">
+
+	<!-- Feeds -->
+	<link href="https://ncmatson.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="N. Cameron Matson Atom Feed" />
+
+
+
+
+</head>
+<body>
+	<div class="topbar">
+	  <div class="topbar-inner">
+		<div class="container-fluid">
+		  <a class="brand" href="https://ncmatson.com/">N. Cameron Matson</a>
+			<ul class="nav">
+							<li><a href="https://ncmatson.com/pages/cv.html">CV</a></li>
+							<li><a href="https://ncmatson.com/pages/projects.html">Projects</a></li>
+			</ul>
+			<!-- <p class="pull-right"><a href="https://ncmatson.com/archives.html">[archives]</a> <a href="https://ncmatson.com/tags.html">[tags]</a></p> -->
+		</div>
+	  </div>
+	</div>
+
+	<div class="container-fluid">
+	  <div class="sidebar">
+		<div class="well">
+			<!-- <h3>Blogroll</h3>
+			<ul>
+			</ul> -->
+			<div>
+				<img id="headshot" src="/images/headshot.png" alt="pic of me">
+			</div>
+			<div class="contact">
+			<h5>Find Me</h3>
+			<ul>
+				<li><a href="https://www.linkedin.com/in/n-cameron-matson/">linkedin</a></li>
+				<li><a href="https://github.com/ncmatson">github</a></li>
+				<li><a href="https://twitter.com/ncmats0n">twitter</a></li>
+			</ul>
+			</div>
+		</div>
+	  </div>
+	  <div class="content">
+	<div class='page'>
+		<div class="page-header"><h1>OSTE (open source terrain extraction)</h1></div>
+		<div><p>This project was my senior design project which I worked with my frined <a href="https://www.linkedin.com/in/dannyzh/">Danny Zhao</a>.  The goal was to create an open source replacement for LIDAR datasets that one of the professors at SMU was using to predict wireless environments without having to do the traditional drive testing.  We didn't get quite that far but we did end up putting a pretty cool project together.  We developed a simple web app that allowed users to select regions on Google Maps they wanted analyzed.  We then processed satelite images two ways: a deep neural net (which we didn't write, we just built some publicly available code) to classify pixels as buildings, and a contour detection algorithm to get building outlines.  We then took the identified buildings and, using some simple geometry, estimated the ground footprint/area of the identified buildings, which was then highlighted on the map.</p>
+<p>One of the interesting things that happened on this project was that we signed early in the semester on for an free academic license with a certain remote sensing/satelite imaging company.  That licesnse was very generous.  It allowed us to request and download thousands of images per minute or something like that.  Later on in the semester, another sr. design team asked us where we were getting our satelite images from because they wanted to use it for their project.  When they went to the website, there was no option for a free academic license, and the cheapest tier that was available only allowed for a few dozen requests per hour!  Fortunately our licesnse didn't seem to have been effected, so we really lucked out!</p>
+<p>You can see the code on <a href="https://github.com/ncmatson/OSTE">github</a>.</p>
+<div>
+    <img src="https://ncmatson.com/images/projects/oste_flowgraph.png" alt="block diagram with example images" width=600px height=auto>
+</div></div>
+	</div>
+		<footer>
+		  <p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="https://github.com/getpelican/pelican-themes/tree/master/bootstrap">Twitter Bootstrap</a>.</p>
+		  <p>&copy; N. Cameron Matson</p>
+		</footer>
+	  </div>
+
+	</div>
+</body>
+</html>
