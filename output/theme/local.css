@@ -37,12 +37,8 @@ div.highlight pre {
 .social a[href*='twitter.com']:before {content: url('./images/icons/twitter.png'); margin-right: 2px; vertical-align: -3px;}
 .social a[href*='weibo.com']:before {content: url('./images/icons/weibo.png'); margin-right: 2px; vertical-align: -3px;} */
 
-.headshot {
-  height: auto;
-  width: auto;
-}
 
-img{
+#headshot {
   max-height: auto;
   max-width: 100%;
   border: 1px black solid;
