@@ -32,7 +32,8 @@ CONTACT = (
 DEFAULT_PAGINATION = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
-STATIC_PATH = ['images', 'pdf']
+STATIC_PATH = ['images', 'pdf', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 THEME = "bootstrap"
 # Uncomment following line if you want document-relative URLs when developing
