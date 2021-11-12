@@ -2,7 +2,7 @@ __pycache__/
 .DS_Store
 
 #Custom
-output/*
+output/
 pelicanconf_local.py
 
 #Python
