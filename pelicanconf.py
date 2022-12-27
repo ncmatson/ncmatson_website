@@ -25,7 +25,6 @@ AUTHOR_FEED_RSS = None
 CONTACT = (
             ('linkedin', 'https://www.linkedin.com/in/n-cameron-matson/'),
             ('github', 'https://github.com/ncmatson'),
-            ('twitter', 'https://twitter.com/ncmats0n'),
             # ('cmatson AT smu DOT edu', '#'),
           )
 
