@@ -1,5 +1,10 @@
 Title: Machine Learned Wireless Channel Codes
 
-I'm currently investingating how to use machine learning, particularly to neural network autoencoders, to design capacity achieving codes for different types of wireless communication systems: multi-user channels, MIMO channels, wiretap channels.
+We use autoencoder neural networks to generate aribtrary rate, single user codes.  Arbitrary rates are particularly useful for multiple access channels where the achievable rate regions often require highly irrational rates.  Conventional codes, which are typically simple rational rates leave a large "gap" between the actual rate and the achievable capacity.  We demonstrate the effectiveness of these codes by using a modified Successive Interference Cancellation decoder.
 
-Stay tuned...
+Work presented in:
+
+- [2022 IEEE Latincom](https://latincom2022.ieee-latincom.org) [[pdf]]({static}../../pdf/papers/nncode.pdf)
+<div>
+    <img src="{static}../../images/papers/nncode_summary_image.pdf" alt="experiment images" max-width="90%" height="auto">
+</div>

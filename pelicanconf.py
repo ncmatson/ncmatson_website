@@ -4,7 +4,7 @@ SITEURL = 'https://ncmatson.com'
 
 PATH = 'content'
 
-TIMEZONE = 'America/Chicago'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
