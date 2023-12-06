@@ -4,6 +4,7 @@ Tags: menu
 Some things I've worked on:
 
 * Research
+    - [Radio Environment Mapping]({filename}./projects/rem.md)
     - [3D A2A Channel Measurements And Applications]({filename}./projects/a2a_3d.md)
     <!-- - [Distributed Beamforming with UAVs]({filename}./projects/dtbf.md) -->
     - [Machine Learned Wireless Channel Codes]({filename}./projects/mlcc.md)
