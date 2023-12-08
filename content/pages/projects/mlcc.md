@@ -7,7 +7,7 @@ We use autoencoder neural networks to generate aribtrary rate, single user codes
 ### Publications:
 
 - [2022 IEEE Latincom](https://latincom2022.ieee-latincom.org) Design and Analysis of Neural-Network-based,
-Single-User Codes for Multiuser Channels [[pdf]]({static}../../pdf/papers/nncode.pdf)
+Single-User Codes for Multiuser Channels [[pdf]]({static}/pdf/papers/nncode.pdf)
 <div>
-    <img src="{static}../../images/papers/nncode_summary_image.svg" alt="experiment images" max-width="90%" height="auto">
+    <img src="{static}/images/papers/nncode_summary_image.svg" alt="experiment images" max-width="90%" height="auto">
 </div>

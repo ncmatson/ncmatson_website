@@ -6,5 +6,5 @@ In this project, we wish to leverage the [heterogenous effect that the UAV body 
 This work will appear at [IEEE CCNC 2022](https://ccnc2022.ieee-ccnc.org).
 
 <div>
-    <img src="{static}../../images/papers/dtbf_summary_images.pdf" alt="experiment images" max-width="90%" height="auto">
+    <img src="{static}/images/papers/dtbf_summary_images.pdf" alt="experiment images" max-width="90%" height="auto">
 </div>

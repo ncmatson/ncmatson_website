@@ -8,5 +8,5 @@ One of the interesting things that happened on this project was that we signed e
 You can see the code on [github](https://github.com/ncmatson/OSTE).
 
 <div>
-    <img src="{static}../../images/projects/oste_flowgraph.png" alt="block diagram with example images" width=600px height=auto>
+    <img src="{static}/images/projects/oste_flowgraph.png" alt="block diagram with example images" width=600px height=auto>
 </div>

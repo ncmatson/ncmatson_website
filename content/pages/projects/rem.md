@@ -6,7 +6,7 @@ Radio environment maps (REMs) are a spatial reprentation of the wireless environ
 An example environment (left) with buildings of varying heights and the corresponding REM (right) is shown below.
 
 <div>
-    <img src="{static}../../images/papers/rem_example.svg" alt="example rem" max-width="90%" height="auto">
+    <img src="{static}/images/papers/rem_example.svg" alt="example rem" max-width="90%" height="auto">
 </div>
 
 ### Publications:
