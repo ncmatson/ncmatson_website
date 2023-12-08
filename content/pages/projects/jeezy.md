@@ -1,4 +1,5 @@
 Title: Spitbot/JeezyAI (an interacitve rap bot)
+[< back to Projects]({filename}../projects.md)
 
 Spitbot is a project I worked on with my friend [Clayton](https://claytongentry.com).
 We wondered what it would be like for two artificial intelligences to compete in a rap battle against one another.

@@ -1,4 +1,5 @@
 Title: OSTE (open source terrain extraction)
+[< back to Projects]({filename}../projects.md)
 
 This project was my senior design project which I worked with my frined [Danny Zhao](https://www.linkedin.com/in/dannyzh/).  The goal was to create an open source replacement for LIDAR datasets that one of the professors at SMU was using to predict wireless environments without having to do the traditional drive testing.  We didn't get quite that far but we did end up putting a pretty cool project together.  We developed a simple web app that allowed users to select regions on Google Maps they wanted analyzed.  We then processed satelite images two ways: a deep neural net (which we didn't write, we just built some publicly available code) to classify pixels as buildings, and a contour detection algorithm to get building outlines.  We then took the identified buildings and, using some simple geometry, estimated the ground footprint/area of the identified buildings, which was then highlighted on the map.
 

@@ -25,14 +25,17 @@ AUTHOR_FEED_RSS = None
 CONTACT = (
             ('linkedin', 'https://www.linkedin.com/in/n-cameron-matson/'),
             ('github', 'https://github.com/ncmatson'),
-            # ('cmatson AT smu DOT edu', '#'),
+            # ('ncmatson AT gatech DOT edu', '#'),
           )
 
 DEFAULT_PAGINATION = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
-STATIC_PATH = ['images', 'pdf', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['images', 'pdf', 'extra']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+                       'extra/favicon.ico': {'path': 'favicon.ico'}
+                       }
+# FAVICON = 'favicon.ico'
 
 THEME = "bootstrap"
 # Uncomment following line if you want document-relative URLs when developing

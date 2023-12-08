@@ -1,8 +1,10 @@
 Title: 3D Air-to-Air Channel and Applications
+[< back to Projects]({filename}../projects.md)
 
+### Overview:
 Our group at SMU conducted several in-field measurement campaigns to study the effect of the drone body and 3D positioning on the Air-to-Air (A2A) Channel between multiple drones.  These measurements have been used to model potential applications of multi-UAV systems such as distributed beamforming.
 
-This work has been published in:
+### Publications:
 
 - [2022 IEEE Latincom](https://latincom2022.ieee-latincom.org) Effect of Antenna Orientation and UAV Position on
 UAV Communications in 3D Space [[pdf]]({static}../../pdf/papers/uav.pdf) (<span style="color:red">**Best Paper Award Winner**!</span>)
