@@ -11,7 +11,7 @@ An example environment (left) with buildings of varying heights and the correspo
 
 ### Publications:
 
-- [2024 IEEE Infocom](https://infocom2024.ieee-infocom.org) (<span style="color:red">*to appear*</span>) Online Radio Environment Map Creation via UAV
-Vision for Aerial Networks [[pdf]]({static}/pdf/papers/2023_infocom_rem.pdf)
+- [2024 IEEE Infocom](https://infocom2024.ieee-infocom.org) Online Radio Environment Map Creation via UAV
+Vision for Aerial Networks [[pdf]]({static}/pdf/papers/2023_infocom_rem.pdf) [[online]](https://ieeexplore.ieee.org/document/10621219)
 
 
