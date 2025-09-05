@@ -37,6 +37,6 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
                        }
 # FAVICON = 'favicon.ico'
 
-THEME = "bootstrap"
+THEME = "themes/bootstrap"
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
