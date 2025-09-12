@@ -2,8 +2,12 @@ Title: Publications
 Tags: menu
 
 Chronological List of Research Publications.  For a topic based list, see [Projects]({filename}./projects.md)
+<!-- needs empty line here -->
 
-[8] Yu-Tai Lin, **N. Cameron Matson**, Karthikeyan Sundaresan, "Bringing Collaborative Positioning to Native 5G Systems for Enhanced 2D & 3D Location Services" in Proceedings of the ACM on Networking, Volume 2, Issue CoNEXT4. [[doi]](https://dl.acm.org/doi/10.1145/3696380)
+<!-- needs empty line here -->
+[9] **N. Cameron Matson**, Yu-Tai Lin, Karthikeyan Sundaresan, "A Holistic Approach to Non-Terrestrial 5G Networking with LEO Satellites: Algorithms, Experiments and Insights". ACM CoNEXT25. *to appear*
+
+[8] Yu-Tai Lin, **N. Cameron Matson**, Karthikeyan Sundaresan, "Bringing Collaborative Positioning to Native 5G Systems for Enhanced 2D & 3D Location Services" in Proceedings of the ACM on Networking, Volume 2, Issue CoNEXT24. [[doi]](https://dl.acm.org/doi/10.1145/3696380)
 
 [7] **N. C. Matson**, K. Sundaresan, "Online Radio Environment Map Creation via UAV Vision for Aerial Networks" in 2024 IEEE INFOCOM. [[doi]](https://doi.org/10.1109/INFOCOM52122.2024.10621219) [[pdf]]({static}/pdf/papers/2023_infocom_rem.pdf)
 

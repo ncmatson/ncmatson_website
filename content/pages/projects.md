@@ -3,7 +3,8 @@ Tags: menu
 
 Some things I've worked on:
 
-* Research (for a chronological list of publications, see [Projects]({filename}./research.md))
+* Research (for a chronological list of publications, see [Publications]({filename}./research.md))
+    - [Non Terrestrial Networks]({filename}./projects/ntn.md)
     - [Radio Environment Mapping]({filename}./projects/rem.md)
     - [3D A2A Channel Measurements And Applications]({filename}./projects/a2a_3d.md)
     - [Machine Learned Wireless Channel Codes]({filename}./projects/mlcc.md)

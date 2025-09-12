@@ -9,6 +9,9 @@ My advisors were [Dinesh Rajan](https://s2.smu.edu/~rajand/) and [Joe Camp](http
 My current research interests are in wireless systems, machine learning, and information theory.  I have undergraduate degrees from SMU in EE, Math, and Music.  I'm originally from Little Rock, Akansas.  Outside of research I enjoy watching and playing live music, watching and playing sports, and exploring the great outdoors.
 
 ### News
+#### September 2025
+Our paper "A Holistic Approach to Non-Terrestrial 5G Networking with LEO Satellites: Algorithms, Experiments and Insights" was accepted to ACM CoNEXT 2025!
+
 #### September 2024
 Our paper ["Bringing Collaborative Positioning to Native 5G Systems for Enhanced 2D & 3D Location Services"](https://dl.acm.org/doi/10.1145/3696380) was accepted to ACM CoNEXT.
 
