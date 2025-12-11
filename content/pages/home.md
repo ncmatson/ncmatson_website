@@ -1,7 +1,7 @@
 Title: About Me
 save_as: index.html
 
-I currnetly pursuing a PhD in [Electrical Engineering at Georgia Tech](http://ece.gatech.edu).  I'm a member of the [MĀRGA Lab](https://marga.ece.gatech.edu) under the dirction of [Prof. Karthikeyan Sundaresan](https://karthik.ece.gatech.edu).  
+I am currently pursuing a PhD in [Electrical Engineering at Georgia Tech](http://ece.gatech.edu).  I'm a member of the [MĀRGA Lab](https://marga.ece.gatech.edu) under the direction of [Prof. Karthikeyan Sundaresan](https://karthik.ece.gatech.edu).  
 
 Perviously I completed my Master's Degree in [Electrical and Computer Engineering at Southern Methodist University](https://www.smu.edu/Lyle/Academics/Departments/ECE).
 My advisors were [Dinesh Rajan](https://s2.smu.edu/~rajand/) and [Joe Camp](https://s2.smu.edu/~camp/).  
