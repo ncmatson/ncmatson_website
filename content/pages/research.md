@@ -5,7 +5,9 @@ Chronological List of Research Publications.  For a topic based list, see [Proje
 <!-- needs empty line here -->
 
 <!-- needs empty line here -->
-[9] **N. Cameron Matson**, Yu-Tai Lin, Karthikeyan Sundaresan, "A Holistic Approach to Non-Terrestrial 5G Networking with LEO Satellites: Algorithms, Experiments and Insights". ACM CoNEXT25. *to appear*
+[10] Aruna Jarayanan, **N. Cameron Matson**, and Karthikeyan Sundaresan. 2026. LEO Satellite Network Orchestration with Heterogeneous Graph Neural Networks. IEEE INFOCOM 2026. Tokyo, Japan. *to appear*.
+
+[9] **N. Cameron Matson**, Yu-Tai Lin, and Karthikeyan Sundaresan. 2025. A Holistic Approach to Non-Terrestrial 5G Networking with LEO Satellites: Algorithms, Experiments, and Insights. Proc. ACM Netw. 3, CoNEXT4, Article 54 (December 2025), 24 pages. [https://doi.org/10.1145/3769001](https://doi.org/10.1145/3769001) [[pdf]]({static}/pdf/papers/2025_harmoni.pdf)
 
 [8] Yu-Tai Lin, **N. Cameron Matson**, Karthikeyan Sundaresan, "Bringing Collaborative Positioning to Native 5G Systems for Enhanced 2D & 3D Location Services" in Proceedings of the ACM on Networking, Volume 2, Issue CoNEXT24. [[doi]](https://dl.acm.org/doi/10.1145/3696380)
 
