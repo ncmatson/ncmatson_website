@@ -10,7 +10,13 @@ My current research interests are in wireless systems, machine learning, and inf
 
 ### News
 #### December 2025
+I received the [GT Herbert Haley Fellowship](https://grad.gatech.edu/taxonomy/term/56).
+
+#### December 2025
 Our paper "LEO Satellite Network Orchestration with Heterogeneous Graph Neural Networks" was accepted to IEEE Infocom 2026 in Tokyo!
+
+#### November 2025
+I was selected as one of three students to participate in the [GT ECE STEER Teaching Fellowship](https://ece.gatech.edu/news/2023/07/new-graduate-fellowships-and-awards-promote-professional-development).
 
 #### September 2025
 Our paper ["A Holistic Approach to Non-Terrestrial 5G Networking with LEO Satellites: Algorithms, Experiments and Insights"](https://dl.acm.org/doi/10.1145/3769001) was accepted to ACM CoNEXT 2025!
