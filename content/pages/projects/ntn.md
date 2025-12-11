@@ -15,7 +15,7 @@ Low Earth Orbit satellite launches have proliferated in recent years.  Satellite
 ### Publications:
 1.  **N. Cameron Matson**, Yu-Tai Lin, and Karthikeyan Sundaresan. 2025. A Holistic Approach to Non-Terrestrial 5G Networking with LEO Satellites: Algorithms, Experiments, and Insights. Proc. ACM Netw. 3, CoNEXT4, Article 54 (December 2025), 24 pages. [https://doi.org/10.1145/3769001](https://doi.org/10.1145/3769001) [[pdf]]({static}/pdf/papers/2025_harmoni.pdf)
 
-2. Aruna Jarayanan, **N. Cameron Matson**, and Karthikeyan Sundaresan. 2026. LEO Satellite Network Orchestration with Heterogeneous Graph Neural Networks. IEEE INFOCOM 2026. Tokyo, Japan. *to appear*.
+2. Aruna Jayarajan, **N. Cameron Matson**, and Karthikeyan Sundaresan. 2026. LEO Satellite Network Orchestration with Heterogeneous Graph Neural Networks. IEEE INFOCOM 2026. Tokyo, Japan. *to appear*.
 
 
 
